@@ -1,5 +1,5 @@
-# I'm d5fa4lt
+# I'm d5fa4lt 👋
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d5fa4lt&theme=dark&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=d5fa4lt&theme=nightowl&show_icons=true"/> 
